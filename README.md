@@ -53,7 +53,7 @@ O programa:
 - 💸 DESCONTO APLICADO: 10%
 - ✅ VALOR FINAL: R$ 16.20
 
---
+---
 
 ## 🛠️ Tecnologias
 - Linguagem: **Portugol (Portugol Web Studio)**  
